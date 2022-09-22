@@ -1,0 +1,23 @@
+body{
+    background-color: rgba(160, 234, 234, 0.433);
+}
+nav{
+     display:flex;
+     /* padding-top: 5%; */
+     padding-bottom: 5%;
+     background-color: rgba(108, 221, 215, 0.293);
+}
+.offer,.grocery,.home,.beauty,.appliances,.fashion,.mobile{
+    margin-left: 10px;
+    padding-top: 2%;
+}
+
+.search{
+    padding-top: 5%;
+    margin-left: 3%;
+}
+.abc{
+    border: 3px solid green;
+    width: 300px;
+    text-align: center;
+}
